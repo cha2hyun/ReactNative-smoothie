@@ -1,3 +1,6 @@
+/*
+초기화면이 나타나는 파일이다
+*/
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native

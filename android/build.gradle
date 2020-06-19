@@ -1,3 +1,6 @@
+/*
+안드로이드 앱을 빌드, 배포할 때 사용하는 파일
+*/
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
